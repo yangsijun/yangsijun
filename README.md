@@ -4,7 +4,7 @@
 - 👀 I’m interested in Web and Mobile App Development
 - 🌱 I’m currently learning Web Programming and Flutter
 - 📫 I'm studying in Handong Global University, Pohang, South Korea
-- 💞️ I love Han Hee!
+- 💞️ I love **Han Hee**!
 
 <br>
 
