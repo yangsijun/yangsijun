@@ -7,7 +7,8 @@
 - 💞️ I love Han Hee!
 
 <br>
-<div align=center><h2>👨🏻‍💻 TECH STACKS 💻</h2></div>
+
+## 👨🏻‍💻 TECH STACKS 💻
 
 <div align=left>
 	<h3>Current</h3>
