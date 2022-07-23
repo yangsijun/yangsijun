@@ -7,10 +7,10 @@
 - 💞️ I love Han Hee!
 
 <br>
-<div align=center><h1>👨🏻‍💻 TECH STACKS 💻</h1></div>
+<div align=center><h2>👨🏻‍💻 TECH STACKS 💻</h2></div>
 
 <div align=left>
-	<h2>Current</h2>
+	<h3>Current</h3>
 	<!--C Lang-->
 	<img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
 	<!--Python-->
@@ -25,7 +25,7 @@
 	<!--GitHub-->
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 	<br>
-	<h2>Studying Now</h2>
+	<h3>Studying Now</h3>
 	<!--HTML-->
 	<img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
 	<!--CSS-->
@@ -37,7 +37,7 @@
 	<img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
 	<!--Flutter-->
   <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-	<h2>Future</h2>
+	<h3>Future</h3>
 	<!--MySQL-->
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
 	<!--PHP-->
