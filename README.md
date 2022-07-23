@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Yang%20Sijun&fontSize=60&fontAlignY=40&desc=(Student%20Developer)&descSize=30&descAlignY=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Yang%20Sijun&fontSize=60&fontAlignY=30&desc=(Student%20Developer)&descSize=30&descAlignY=55)
 
 - 👋 Hi, I’m @yangsijun
 - 👀 I’m interested in Web and Mobile App Development
