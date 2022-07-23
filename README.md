@@ -1,13 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Yang%20Sijun&fontSize=60&fontAlignY=40&desc=(Student%20Developer)&descSize=30&descAlignY=60)
 
-- ? Hi, I��m @yangsijun
-- ? I��m interested in Web and Mobile App Development
-- ? I��m currently learning Web Programming and Flutter
-- ? I'm studying in Handong Global University, Pohang, South Korea
-- ?? I love Han Hee!
+- 👋 Hi, I’m @yangsijun
+- 👀 I’m interested in Web and Mobile App Development
+- 🌱 I’m currently learning Web Programming and Flutter
+- 📫 I'm studying in Handong Global University, Pohang, South Korea
+- 💞️ I love Han Hee!
 
 <br>
-<div align=center><h1>???? TECH STACKS ?</h1></div>
+<div align=center><h1>👨🏻‍💻 TECH STACKS 💻</h1></div>
 
 <div align=left>
 	<h2>Current</h2>
