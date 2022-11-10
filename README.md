@@ -14,12 +14,14 @@
 	<h3>Current</h3>
 	<!--C Lang-->
 	<img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
-	<!--Python-->
-	<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 	<!--C++-->
 	<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+	<!--Python-->
+	<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 	<!--Java-->
 	<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+	<!--Dart-->
+	<img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
 	<br>
 	<!--Git-->
   	<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
@@ -33,14 +35,20 @@
 	<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 	<!--JavaScript-->
 	<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-	<br>
-	<!--Dart-->
-	<img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
-	<!--Flutter-->
-  	<img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-	<h3>Future</h3>
 	<!--MySQL-->
   	<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+	<!--Apache Tomcat-->
+	<img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
+	<br>
+	<!--Flutter-->
+  	<img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+	<!--Android-->
+  	<img src="https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white"> 
+	<!--Kotlin-->
+	<img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"> 
+	<!--Jetpack Compose-->
+	<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white">
+	<h3>Future</h3>
 	<!--PHP-->
 	<img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white"> 
 	<!--JQuery-->
@@ -58,6 +66,7 @@
   	<img src="https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=black"> 
   	<!--Vue.JS-->
 	<img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
+	<br>
 	<!--Django--> 
 	<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
 	<!--electron-->
@@ -65,15 +74,13 @@
 	<!--PWA-->
 	<img src="https://img.shields.io/badge/pwa-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white"> 
 	<br>
-	<!--Android-->
-  	<img src="https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white"> 
-	<!--Kotlin-->
-	<img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"> 
   	<!--iOS-->
 	<img src="https://img.shields.io/badge/ios-000000?style=for-the-badge&logo=ios&logoColor=white"> 
+	<!--Swift-->
+	<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white">
 	<br>
 	<!--AWS-->
-  	<img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
+  	<img src="https://img.shields.io/badge/amazon%20aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
   	<!--Google Cloud-->
   	<img src="https://img.shields.io/badge/google cloud-4285F4?style=for-the-badge&logo=google cloud&logoColor=white">
   	<!--Firebase-->
