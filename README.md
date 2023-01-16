@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Yang%20Sijun&fontSize=60&fontAlignY=30&desc=(Student%20Developer)&descSize=30&descAlignY=55)
 
 - 👋 Hi, I’m @yangsijun
-- 👀 I’m interested in Web and Mobile App Development
+- 👀 I’m interested in SW Engineering, Web and Mobile App Development
 - 🌱 I’m currently learning Web Programming and Flutter
 - 📫 I'm studying in Handong Global University, Pohang, South Korea
 - 💞️ I love **Han Hee**!
