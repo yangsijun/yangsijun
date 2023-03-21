@@ -143,5 +143,5 @@
 > #### C프로그래밍 교재개발 연구 참여 학생연구원
 >> 2022.12 ~ 2023.01
 >
-> #### 대한민국 공군 - 전문기술병/전자계산 특기 (ROKAF - Technican / Computer Operation)
+> #### 대한민국 공군 - 전문기술병/전자계산 특기 (Republic of Korea Air Force - Technican / Computer Operation)
 >> 2023.04 ~ 2025.01
