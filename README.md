@@ -52,13 +52,13 @@
 	<!--CSS-->
 	<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 	<h3>Studying Now</h3>
-	<!--Android-->
-  	<img src="https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white"> 
-	<!--Jetpack Compose-->
-	<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white">
-	<br>
   	<!--Node.JS-->
 	<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+	<!--electron-->
+	<img src="https://img.shields.io/badge/electron-47848F?style=for-the-badge&logo=electron&logoColor=white"> 
+	<br>
+	<!--Swift-->
+	<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white">
 	<br>
 	<!--Apache-->
   	<img src="https://img.shields.io/badge/apache-D22128?style=for-the-badge&logo=apache&logoColor=white">
@@ -72,21 +72,14 @@
   	<!--Vue.JS-->
 	<img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
 	<br>
-	<!--PHP-->
-	<img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white"> 
-	<!--GraphQL-->
-  	<img src="https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=black"> 
-	<!--Django--> 
-	<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
-	<br>
-	<!--electron-->
-	<img src="https://img.shields.io/badge/electron-47848F?style=for-the-badge&logo=electron&logoColor=white"> 
 	<!--PWA-->
 	<img src="https://img.shields.io/badge/pwa-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white">
   	<!--iOS-->
 	<img src="https://img.shields.io/badge/ios-000000?style=for-the-badge&logo=ios&logoColor=white"> 
-	<!--Swift-->
-	<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white">
+	<!--Android-->
+  	<img src="https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white"> 
+	<!--Jetpack Compose-->
+	<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white">
 	<br>
 	<!--AWS-->
   	<img src="https://img.shields.io/badge/amazon%20aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
