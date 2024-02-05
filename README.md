@@ -4,7 +4,7 @@
 - 👀 I’m interested in Web and Mobile App Development & Software Architecture
 - 📚 I’m currently learning Web and Mobile App Development (Full Stack)
 - 👨‍🎓 I'm studying in Handong Global University, Pohang, South Korea
-- 🪖 I'm scheduled for military service in the Republic of Korea Air Force.
+- 🪖 I'm serving in the Republic of Korea Air Force.
 
 <br>
 
