@@ -1,10 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Yang%20Sijun&fontSize=60&fontAlignY=30&desc=(Student%20Developer)&descSize=30&descAlignY=55)
 
 - 👋 Hi, I’m @yangsijun
-- 👀 I’m interested in Web and Mobile App Development & Software Architecture
-- 📚 I’m currently learning Web and Mobile App Development (Full Stack)
-- 👨‍🎓 I'm studying in Handong Global University, Pohang, South Korea
-- 🪖 I'm serving in the Republic of Korea Air Force.
+- 👀 I’m interested in iOS App Development & Software Architecture
+- 📚 I’m currently learning iOS App Development
+- 🍎 I'm studying at the Apple Developer Academy @ POSTECH
+- 👨‍🎓 I'm a student majoring in CS at Handong University, Pohang, South Korea
+- 🪖 I completed my military service in the Republic of Korea Air Force.
 
 <br>
 
@@ -101,11 +102,15 @@
 >
 > ### Bachelor
 >> #### Handong Global University
->>> Artificial Intelligence, Computer Science and Engineering  
->>> 2021.03 - Now  
+>>> **Artificial Intelligence, Computer Science and Engineering**  
+>>> 2021.03 - 2023.02  
+>>> 2026.03 - 2028.02 (Expected) 
 >>
 >> #### Postech (Exchange)  
 >>> 2021.09 - 2021.12  
+> ### Etc
+>> #### Apple Developer Academy @ POSTECH
+>>> 2025.03 - 2025.12
 
 ## Career
 > #### 2022 하계 SW 아카데미 미리미리C캠프 Teaching Assistant
