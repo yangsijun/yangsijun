@@ -97,7 +97,7 @@
 
 ## Education
 > ### High School
->> #### Chanwon Science High School
+>> #### Changwon Science High School
 >>> 2018.03 - 2021.02
 >
 > ### Bachelor
