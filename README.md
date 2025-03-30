@@ -61,6 +61,8 @@
 	<h3>Studying Now</h3>
 	<!--Swift-->
 	<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white">
+  	<!--iOS-->
+	<img src="https://img.shields.io/badge/ios-000000?style=for-the-badge&logo=ios&logoColor=white"> 
 	<br>
 	<!--Apache-->
   	<img src="https://img.shields.io/badge/apache-D22128?style=for-the-badge&logo=apache&logoColor=white">
@@ -69,8 +71,8 @@
 	<h3>Future</h3>
 	<!--PWA-->
 	<img src="https://img.shields.io/badge/pwa-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white">
-  	<!--iOS-->
-	<img src="https://img.shields.io/badge/ios-000000?style=for-the-badge&logo=ios&logoColor=white"> 
+	<!--UIKit-->
+	<img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=uikit&logoColor=white">
 	<br>
 	<!--AWS-->
   	<img src="https://img.shields.io/badge/amazon%20aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
