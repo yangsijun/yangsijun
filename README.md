@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Yang%20Sijun&fontSize=60&fontAlignY=30&desc=(Student%20Developer)&descSize=30&descAlignY=55)
 
-- 👋 Hi, I’m @yangsijun
-- 👀 I’m interested in iOS App Development & Software Architecture
-- 📚 I’m currently learning iOS App Development
-- 🍎 I'm studying at the Apple Developer Academy @ POSTECH
-- 👨‍🎓 I'm a student majoring in CS at Handong University, Pohang, South Korea
+- 👋 Hi, I’m @yangsijun.
+- 👀 I’m interested in iOS App Development & Software Architecture.
+- 📚 I’m currently learning iOS App Development/
+- 🍎 I'm studying at the Apple Developer Academy @ POSTECH. (I use the nickname 'Air')
+- 👨‍🎓 I'm a student majoring in CS at Handong University, Pohang, South Korea.
 - 🪖 I completed my military service in the Republic of Korea Air Force.
 
 <br>
