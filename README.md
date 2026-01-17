@@ -1,122 +1,110 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Yang%20Sijun&fontSize=60&fontAlignY=30&desc=(Student%20Developer)&descSize=30&descAlignY=55)
+# Sijun Yang (양시준)
 
-- 👋 Hi, I’m @yangsijun.
-- 👀 I’m interested in iOS App Development & Software Architecture.
-- 📚 I’m currently learning iOS App Development.
-- 🍎 I'm studying at the Apple Developer Academy @ POSTECH. (I use the nickname 'Air')
-- 👨‍🎓 I'm a student majoring in CS at Handong University, Pohang, South Korea.
-- 🪖 I completed my military service in the Republic of Korea Air Force.
+> ### "Polishing software with the heart of a master craftsman."
+> 장인의 마음가짐으로 소프트웨어를 다듬어 가는 엔지니어.
 
 <br>
 
-## 👨🏻‍💻 TECH STACKS 💻
+[![Website](https://img.shields.io/badge/Website-sijun.dev-blue?style=flat-square)](https://sijun.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-yangsijun-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/yangsijun)
+[![Blog](https://img.shields.io/badge/Blog-log.sijun.dev-orange?style=flat-square)](https://log.sijun.dev)
+[![Email](https://img.shields.io/badge/Email-yang%40sijun.dev-red?style=flat-square&logo=gmail)](mailto:yang@sijun.dev)
 
-<div align=left>
-	<h3>I Do</h3>
-	<!--C++-->
-	<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-	<!--Java-->
-	<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-	<!--Swift-->
-	<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white">
-	<!--Dart-->
-	<img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
-	<!--Kotlin-->
-	<img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"> 
-	<!--JavaScript-->
-	<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-	<!--MySQL-->
-  	<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-	<br>
-  	<!--iOS-->
-	<img src="https://img.shields.io/badge/ios-000000?style=for-the-badge&logo=ios&logoColor=white"> 
-	<!--Flutter-->
-  	<img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-	<!--Spring Boot-->
-	<img src="https://img.shields.io/badge/spring%20boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
-	<!--Node.JS-->
-	<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-	<!--electron-->
-	<img src="https://img.shields.io/badge/electron-47848F?style=for-the-badge&logo=electron&logoColor=white">
-	<br>
-	<!--NGINX-->
-  	<img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
-	<!--Apache Tomcat-->
-	<img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
-	<br>
-	<!--Git-->
-  	<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-	<!--GitHub-->
-	<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-	<br>
-	<h3>I Can Do</h3>
-	<!--C Lang-->
-	<img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
-	<!--Python-->
-	<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-	<!--JQuery-->
-  	<img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-	<!--HTML-->
-	<img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-	<!--CSS-->
-	<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-	<br>
-	<!--Spring-->
-	<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-	<br>
-	<h3>Studying Now</h3>
-	<!--Apache-->
-  	<img src="https://img.shields.io/badge/apache-D22128?style=for-the-badge&logo=apache&logoColor=white">
-	<!--docker-->
-  	<img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-	<h3>Future</h3>
-	<!--PWA-->
-	<img src="https://img.shields.io/badge/pwa-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white">
-	<!--UIKit-->
-	<img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=uikit&logoColor=white">
-	<br>
-	<!--AWS-->
-  	<img src="https://img.shields.io/badge/amazon%20aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
-	<!--Kubernetes-->
-  	<img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
-  	<br>
-</div>
-<br>
+<br><br>
 
-## Coding Stat (Weekly)
-[![yangsijun's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yangsijun)]()
+## About Me | 소개
 
+I am a software engineer specialising in Apple platform development, with a focus on building intuitive, user-centred applications. My experience spans the full software development lifecycle—from initial concept through release and continuous improvement. I have a keen interest in software engineering principles and code quality, and I am passionate about leveraging AI to drive productivity innovation in development workflows.
+ 
+저는 Apple 플랫폼 개발을 전문으로 하는 소프트웨어 엔지니어입니다. 직관적이고 사용자 중심의 애플리케이션을 개발하며, 초기 기획부터 출시, 그리고 지속적인 개선까지 소프트웨어 개발의 전 과정을 경험하고 있습니다. 소프트웨어 공학과 코드 품질에 깊은 관심을 가지고 있으며, AI를 활용한 개발 생산성 혁신에 열정을 쏟고 있습니다.
+
+
+<br><br>
+
+## Current Role | 현재
+
+**CTO & Co-Founder** at **TNT Labs** (Jan 2026 – Present)
+
+Building an iOS/macOS startup focused on AI-powered productivity tools. Leading technical architecture and hands-on development.
+
+TNT Labs에서 CTO & 공동창업자로서 AI 기반 생산성 도구를 개발하는 iOS/macOS 스타트업을 이끌고 있습니다.
+
+
+<br><br>
+
+## Featured Projects | 주요 프로젝트
+
+### kip!
+AI-powered memory assistant for iOS and macOS. Captures images and web links with AI-generated summaries, providing intelligent time and location-based reminder suggestions.
+
+iOS/macOS용 AI 기반 메모리 어시스턴트. 이미지와 웹 링크를 AI 요약과 함께 저장하고 시간/장소 기반 알림을 추천합니다.
+
+`SwiftUI` `UIKit` `Foundation Models` `SwiftData` `CloudKit`
+
+[![App Store](https://img.shields.io/badge/App%20Store-Download-0D96F6?style=flat-square&logo=apple)](https://apps.apple.com/kr/app/kip/id6754709167)
 
 <br>
 
-## BOJ (Algorithm Online Judge)
-[![Solved.ac Profile](https://mazassumnida.wtf/api/generate_badge?boj=yangbyun1)](https://solved.ac/yangbyun1)
+### ShowX
+Indoor map application for Apple Developer Academy Showcase. **First implementation of Apple Indoor Maps Programme in Korea**, with manual IMDF data creation and Apple schema validation.
 
-<br>
+Apple Developer Academy 쇼케이스를 위한 실내지도 앱. **Apple Indoor Maps Program을 한국에서 처음 적용한 사례**입니다.
 
-## Education
-> ### High School
->> #### Changwon Science High School
->>> 2018.03 - 2021.02
->
-> ### Bachelor
->> #### Handong Global University
->>> **Artificial Intelligence, Computer Science and Engineering**  
->>> 2021.03 - 2023.02  
->>> 2026.03 - 2028.02 (Expected) 
->>
->> #### Postech (Exchange)  
->>> 2021.09 - 2021.12  
-> ### Etc
->> #### Apple Developer Academy @ POSTECH
->>> 2025.03 - 2025.12
+`SwiftUI` `MapKit` `IMDF` `Core Location`
 
-## Career
-> #### 2022 하계 SW 아카데미 미리미리C캠프 Teaching Assistant
->> 2022.07
->
-> #### C프로그래밍 교재개발 연구 참여 학생연구원
->> 2022.12 ~ 2023.01
->
-> #### 대한민국 공군 - 병장 / 정보체계정비병 (Republic of Korea Air Force - Staff Sergeant / Computer Operations)
->> 2023.04 ~ 2025.01
+[![App Store](https://img.shields.io/badge/App%20Store-Download-0D96F6?style=flat-square&logo=apple)](https://apps.apple.com/kr/app/showx/id6755496321)
+
+
+<br><br>
+
+## Technical Skills | 기술 스택
+
+### Apple Ecosystem
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white)
+![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=flat-square&logo=apple&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+
+### Server & Tools
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+
+<br><br>
+
+## Experience | 경력
+
+| Period | Organisation | Role |
+|--------|--------------|------|
+| 2026.01 – Present | **TNT Labs** | CTO & Co-Founder |
+| 2025.03 – 2025.12 | **Apple Developer Academy @ POSTECH** | Learner |
+| 2023.04 – 2025.01 | **Republic of Korea Air Force** | Information Systems Technician - Staff Sergeant |
+
+
+<br><br>
+
+## Education | 학력
+
+**Handong Global University** — BSc in AI Computer Science & Engineering
+- 2021.03 – 2022.12
+- 84/130 credits completed (FHEQ Level 5 equivalent)
+
+**Changwon Science High School**
+- 2018.03 – 2021.02
+- Comparable to RQF Level 3
+
+
+<br><br>
+
+<p align="center">
+  <img src="https://github-readme-stats-three-gamma-61.vercel.app/api?username=yangsijun&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-three-gamma-61.vercel.app/api/top-langs/?username=yangsijun&layout=compact&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-three-gamma-61.vercel.app/api/wakatime?username=yangsijun" alt="yangsijun's wakatime stats" />
+</p>
