@@ -54,6 +54,41 @@ Apple Developer Academy 쇼케이스를 위한 실내지도 앱. **Apple Indoor 
 
 [![App Store](https://img.shields.io/badge/App%20Store-Download-0D96F6?style=flat-square&logo=apple)](https://apps.apple.com/kr/app/showx/id6755496321)
 
+<br>
+
+### Crown Prix
+A minimalist 2D top-down racing game exclusively for Apple Watch. Features Digital Crown steering, 24 real-world F1 circuits from SVG data, sector timing with Game Center leaderboards, and an iOS companion app.
+
+Apple Watch 전용 미니멀 2D 탑뷰 레이싱 게임. Digital Crown 조작, SVG 데이터 기반 24개 F1 서킷, 섹터 타이밍 및 Game Center 리더보드, iOS 컴패니언 앱을 제공합니다.
+
+`Swift` `SpriteKit` `SwiftUI` `Game Center` `WatchConnectivity`
+
+[![App Store](https://img.shields.io/badge/App%20Store-Download-0D96F6?style=flat-square&logo=apple)](https://apps.apple.com/app/crown-prix/id6758554134)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/yangsijun/CrownPrix)
+
+<br>
+
+### March 16
+A beautifully crafted iOS app delivering daily Bible verses with calendar browsing, bookmarks, home screen widgets, social sharing, and notifications.
+
+매일의 성경 말씀을 전달하는 iOS 앱. 달력 탐색, 북마크, 홈 화면 위젯, 소셜 공유, 알림 기능을 제공합니다.
+
+`SwiftUI` `SwiftData` `WidgetKit` `UserNotifications` `GRDB` `StoreKit`
+
+[![App Store](https://img.shields.io/badge/App%20Store-Download-0D96F6?style=flat-square&logo=apple)](https://apps.apple.com/kr/app/march-16/id6756217289)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/yangsijun/March-16)
+
+<br>
+
+### π (pi)
+A Pi digit memorization app for iOS, iPadOS, and watchOS. Supports learning up to 10,000 digits with configurable chunk sizes, test mode with statistics, iPad Scribble input, and progress sync between devices.
+
+원주율 암기 학습용 iOS/iPadOS/watchOS 앱. 10,000자리까지 학습 지원, 테스트 모드 및 통계, iPad Scribble 입력, 기기 간 진도 동기화 기능을 제공합니다.
+
+`SwiftUI` `SwiftData` `Observation` `WatchConnectivity`
+
+[![App Store](https://img.shields.io/badge/App%20Store-Download-0D96F6?style=flat-square&logo=apple)](https://apps.apple.com/kr/app/pi/id6760577760)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/yangsijun/pi)
 
 <br><br>
 
